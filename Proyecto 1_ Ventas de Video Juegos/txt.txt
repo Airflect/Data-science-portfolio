@@ -1,0 +1,6 @@
+reporte interactivo que permite analizar las ventas de millones de copias de videojuegos a nivel global por las caetgorias de:
+-Año 
+-Región 
+-Plataforma 
+-Género 
+-Editorial

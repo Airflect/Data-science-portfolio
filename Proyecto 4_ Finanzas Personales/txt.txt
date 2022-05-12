@@ -1,0 +1,4 @@
+Reporte de finanzas personales que permite visualizar e interactuar con:
+-Ingresos, Gastos, Utilidad (Ganancias) y Saldo (Dinero Disponible).<br />
+-Metas de ingresos, Presupuestos de gastos y Expectativas Financieras.<br />
+-Cálculos necesarios para poder hacer seguimiento de cuotas con facilidad.<br />

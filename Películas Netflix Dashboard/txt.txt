@@ -1,0 +1,13 @@
+Generar un dashboard que contenga lo siguiente:
+
+
+Dashboard generado con dataset de todas las peliculas y series disponibles en la plataforma Netflix
+Cumple con los siguientes objetivos:
+
+-Crea una medida que permite cuantificar la cantidad de películas disponibles
+-Determinaa la cantidad de programas por tipo
+-Determina la cantidad de programas por clasificación<br />
+-Títulos por País
+-Títulos por Año de Lanzamiento 
+
+Dataset: https://www.kaggle.com/shivamb/netflix-shows

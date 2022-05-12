@@ -1,0 +1,6 @@
+Reporte grafico para la administracion de recursos humanos de la compañia SKU DON que analiza:
+-Análisis por empleado (tabla) 
+-Total de empleados (conteo) 
+-Promedios de edad 
+-Costos Totales por Sueldo, Relación Sueldos/Edad 
+-Evaluación de desempeño Max,Min y por jefe

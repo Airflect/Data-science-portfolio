@@ -1,0 +1,14 @@
+Se realizo la intregración de deiferentes fuentes de datos propocionadas que nos sumarice información clave por medio de mapas y mapas interactivos de reporte <br />
+
+Reportes con mapas interactivos que integran diferentes fuentes de datos para poder analizar informacion
+
+-Reporte 1: Población por país y continente <br />
+-Reporte 2: Indicadores mundiales de esperanza de vida y mortalidad infantil <br />
+
+Se puede analizar por la categorías de:
+
+-Grupos de continente <br />
+-Grupos de población (de mayor a menor cantidad de población) <br />
+-Grupos de esperanza de vida (de mayor a menor esperanza de vida) <br />
+-Grupos de mortalidad infantil (de mayor a menor mortalidad infantil) <br />
+-Relación entre esperanza de vida y mortalidad infantil 

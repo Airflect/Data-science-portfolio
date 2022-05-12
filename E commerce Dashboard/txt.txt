@@ -1,0 +1,4 @@
+Dashboard realizado usando el dataset publico "E-Commerce Data” de una compañía britanica.
+El objetivo principal es saber si existe una relación directa entre el horario y los ingresos de la empresa.
+
+Dataset: https://www.kaggle.com/carrie1/ecommerce-data

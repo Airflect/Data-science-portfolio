@@ -1,0 +1,7 @@
+En este proyecto realice un análisis de inventario a una tienda de autoservicio
+- Stock General
+- Variedad de productos
+- Valor total del inventario
+- Valor de cada categoría
+- Stock por producto
+
